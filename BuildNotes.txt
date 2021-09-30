@@ -1,0 +1,10 @@
+For this build of the game, I've added all the functionality and animations for movement, attacking, and
+damage to enemy characters. The animations aren't final and I would like to find better animations and
+improve on the smoothness of the transitions. The models are just placeholders until a theme and proper models
+are found. For future builds I would like to improve on the camera movement, and add more animations and smooth out the combat system.
+This build is just to demonstrate the basic primary mechanics that the game will be centered around.
+
+Features that need to be fixed:
+- Constantly attacking sometimes doesnt register as a hit on the enemy
+- Animations when landing then running will sometimes transition to idle first
+- Camera will zoom in too close when sprinting/flying fast and moving left or right
